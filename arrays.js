@@ -35,6 +35,6 @@ return myArraySlice
   
 
 function destructivelyRemoveElementFromEndOfArray(array) {
-  
+  array.pop()
 }
 
