@@ -29,7 +29,7 @@ return array
 }
 
 function removeElementFromBeginningOfArray(array) {
-array.shift()
+r
 return array
 }
 
