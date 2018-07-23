@@ -29,7 +29,7 @@ return array
 }
 
 function removeElementFromBeginningOfArray(array) {
-r
+array.slice(1)
 return array
 }
 
