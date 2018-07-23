@@ -30,7 +30,7 @@ return array
 
 function removeElementFromBeginningOfArray(array) {
 array.shift()
-array
+return array
 }
 
 
