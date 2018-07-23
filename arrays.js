@@ -34,9 +34,7 @@ return myArraySlice
 }
   
 
-
-
-
-
-
+function destructivelyRemoveElementFromEndOfArray(array) {
+  
+}
 
