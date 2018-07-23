@@ -29,8 +29,8 @@ return array
 }
 
 function removeElementFromBeginningOfArray(array) {
-array.unshift()
-return array
+array.shift()
+array
 }
 
 
