@@ -29,7 +29,7 @@ return array
 }
 
 function removeElementFromEndOfArray(array) {
-  myArraySlice = array.slice(1)
+  myArraySlice = array.slice(0, myArraySlice.length - 1)
 return myArraySlice  
 }
   
