@@ -28,8 +28,8 @@ array.shift()
 return array
 }
 
-function destructivelyRemoveElementFromBeginningOfArray(array) {
-array.shift()
+function removeElementFromBeginningOfArray(array) {
+array.unshift()
 return array
 }
 
